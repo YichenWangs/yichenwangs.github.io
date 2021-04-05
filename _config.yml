@@ -21,11 +21,11 @@ footer:
   contact:
     - name: Email
       value: yichen.wang@anu.edu.au
-      link: "#"
+      link: mailto:yichen.wang@anu.edu.au
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
-  follow:
+  # follow:
     # - name: Twitter
     #   link: http://twitter.com/YourTwitterUsername
     #   username: "@YourTwitterUsername"
