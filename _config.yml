@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: YICHEN WANG
+title: Yichen Wang
 description: >- # this means to ignore newlines until "baseurl:"
   The is Yichen Wang's personal website.
 baseurl: "/bay" # the subpath of the site
@@ -21,7 +21,7 @@ footer:
   contact:
     - name: Email
       value: yichen.wang@anu.edu.au
-      link: yichen.wang@anu.edu.au
+      link: "#"
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
@@ -37,8 +37,8 @@ footer:
     #   link: http://github.com/YourGitHubUsername
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+    # - name: RSS
+    #   link: /feed.xml
 
 # Build settings
 markdown: kramdown
