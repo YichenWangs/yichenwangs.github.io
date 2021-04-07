@@ -3,18 +3,18 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: Sonic Sculptural Staircase
     image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      src: /assets/img/work/staircase.png
+      alt: sonic-staircase
+    description: Sonic Sculptural Staircase is a head-mounted augmented reality (HMAR) sound artwork that integrates sound, visual overlay and interaction to enhance the appreciation of a sculptural staircase and its surroundings. The work designed ten different interactive sonic features that mainly exploits sound as the main information channel to prompt the user’s engagement and convey the meaning behind the staircase. You can read more [here](https://yichenwangs.github.io/portfolio/projects/proj-1.html).
+    
+  # - title: My Interest 2
+  #   image:
+  #     src: /assets/img/work/sand.png
+  #     alt: sand
+  #   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
 <br />
 <br />
