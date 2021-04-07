@@ -43,7 +43,10 @@ footer:
 # Build settings
 markdown: kramdown
 kramdown:
-    auto_ids: true
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
+  # Disable auto-generated ID's for headings
+  auto_ids: false
 sass:
     style: :compressed
 plugins:
