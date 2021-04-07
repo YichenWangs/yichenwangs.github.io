@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/staircase.png
       alt: sonic-staircase
-    description: Sonic Sculptural Staircase is a head-mounted augmented reality (HMAR) sound artwork that integrates sound, visual overlay and interaction to enhance the appreciation of a sculptural staircase and its surroundings. The work designed ten different interactive sonic features that mainly exploits sound as the main information channel to prompt the user’s engagement and convey the meaning behind the staircase. You can read more [here](https://yichenwangs.github.io/portfolio/projects/proj-1.html).
+    description: Sonic Sculptural Staircase is a head-mounted augmented reality (HMAR) sound artwork that integrates sound, visual overlay and interaction to enhance the appreciation of a sculptural staircase and its surroundings. The work designed ten different interactive sonic features that mainly exploits sound as the main information channel to prompt the user’s engagement and convey the meaning behind the staircase. 
     
   # - title: My Interest 2
   #   image:
@@ -17,4 +17,7 @@ items:
 ---
 
 <br />
+
+Here are asbstracts of my selected works. You can [read more](https://yichenwangs.github.io/portfolio/projects/proj-1.html) from my portfolio.
+
 <br />
