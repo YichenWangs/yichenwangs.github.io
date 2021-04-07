@@ -42,6 +42,8 @@ footer:
 
 # Build settings
 markdown: kramdown
+kramdown:
+    auto_ids: true
 sass:
     style: :compressed
 plugins:
