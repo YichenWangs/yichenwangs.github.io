@@ -1,6 +1,6 @@
 ---
 layout: work
-title: WORK
+title: Work
 slug: /work
 items:
   - title: Sonic Sculptural Staircase
