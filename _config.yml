@@ -25,10 +25,10 @@ footer:
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
-  # follow:
-    # - name: Twitter
-    #   link: http://twitter.com/YourTwitterUsername
-    #   username: "@YourTwitterUsername"
+  follow:
+    - name: Twitter
+      link: http://twitter.com/yichenwangs
+      username: "@yichenwangs"
     # - name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
     # - name: LinkedIn
@@ -48,7 +48,7 @@ kramdown:
   # Disable auto-generated ID's for headings
   auto_ids: false
 sass:
-    style: :compressed
+    style: compressed
 plugins:
   - jekyll-feed
 

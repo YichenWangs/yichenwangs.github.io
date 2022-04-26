@@ -4,8 +4,6 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
-Hi there - 
+<!-- Hi there -  -->
 
-I'm Yichen, a recent computer science graduate student with broad interests in arts, creative computing and philosophy. You can read my [CV](assets/YichenWang_Resume.pdf) here. More to come:)
-
-Please feel free to contact me if you have any comment or question.
+I'm Yichen, a researcher who is fond of art and computer science. I explore the possibility between sonic expression, Augmented Reality and Human-Computer Interaction. You can check out what I've been working on [here](./work).
