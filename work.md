@@ -20,7 +20,7 @@ items:
     image:
       src: /assets/img/work/cloud.png
       alt: sunset-inspo
-    description: Finally - our Laptop Ensemble performance is up online (mine starts at 56:56)! "Sunset Inspo" is a creative living coding artwork that uses Extempore and P5.js to present a real-time audiovisual performance. The theme of the work came from my experiences of watching sunset at Canberra (a tiny but lovely city)!
+    description: Finally - our Laptop Ensemble performance is up online (mine starts at 56:56)! "Sunset Inspo" is a creative live coding artwork that uses Extempore and P5.js to present a real-time audiovisual performance. The theme of the work came from my experiences of watching sunset at Canberra (a tiny but lovely city)!
 ---
 
 <br />
