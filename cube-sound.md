@@ -4,8 +4,11 @@ title: Cubing Sound User Study
 ---
 
 ---
+
+
 # Demographic Questionnaire
 
+[demographic](demographic.docx)
 
 1. What is your gender?
 
@@ -25,21 +28,17 @@ title: Cubing Sound User Study
 
 
 
-3. How experienced are you with playing instruments/musical performance?
-    <br>
-    <br>
-    <br>
-    - If applicable, how many hours per week do you play music? Please provide details as much as you can.
-    <br>
-    <br>
-    <br>
+3. What music instruments do you play:______________________
+for (how long)___________?
 
 
-4. How experienced are you with computer or electronic-based instruments (e.g. Max/MSP/Jitter or synthesiser)?
 
-    <br>
-    <br>
-    <br>
+4. What is your dominant hand? If you normally use your non-dominant hand to play instruments, please provide details in the blank below (e.g. left-handed guitar).
+
+    A. Left hand
+    B. Right hand
+    C. Prefer not to say
+
 
 
 5. Do you have any previous experiences using mixed reality headsets such as VR headset Oculus, or Microsoft HoloLens for performing music related activities? Such as video game Beat Saber or Smash Drums in Oculus?
@@ -63,6 +62,8 @@ title: Cubing Sound User Study
 ---
 
 # Survey Questionnaire
+
+[questionnaire](questionnaire.docx)
 
 ## 1. Feature controllability and Usability:
 
@@ -88,7 +89,7 @@ title: Cubing Sound User Study
 ## 3. Explorability:
 
 
-- To play a same note, chord or musical phrases, I found I could use different hand gestures.
+- To play a same note, chord, patterns or musical phrases, I found I could use different hand gestures.
 
 - During these tasks, I can continually discover new things by using this instrument.
 
@@ -106,3 +107,162 @@ title: Cubing Sound User Study
 
 - I found the instrument aesthetically pleasing.
 
+
+# Interview Questions
+
+[interview](interview.docx)
+
+1.	How was your overall experience?
+
+2.	How do you feel about using hand gestures to play music through this interface?
+a.	 interaction-wise
+b.	 sound-wise
+c.	any other perspectives as a novel digital musical instrument
+3.	What impresses you the most? 
+
+4.	Any downsides/suggestions regarding the design of this new musical interface for music creativity?
+
+# Music Sheet
+
+
+## General Information
+<img src="improved.PNG" width="300">
+
+<img src="prototype3_1.PNG" width="300">
+
+The interface is composed of three layers: bottom, middle and top.
+
+Each cube represents a music note of FM synth, following a traditional keyboard layout.
+
+In the middle layer, starting from the **pink** cube as C4, in the anti-clockwise direction, following C4#, D4, D4#, etc. This changes the modulation frequency.
+
+While the upper and lower layers provide notes which changes the carrier frequency.
+
+As shown in the second picture, you can use you fingers to trigger this notes to play.
+
+For task 2 and 3, you will be asked to follow color patterns with text info to complete designed tasks.
+
+
+## Task 2
+
+Play 3 chords or music patterns:
+
+--------------------> time
+
+- Pattern 1: 
+
+    <span style="background-color: rgb(252, 3, 211)">__</span> C
+
+    <span style="background-color: yellow">__</span> E
+
+    <span style="background-color: red">__</span> G
+
+- Pattern 2:
+
+    <span style="background-color: rgb(3, 190, 252)">__</span> B
+
+    <span style="background-color: purple">__</span> A
+
+    <span style="background-color: rgb(173, 252, 3)">__</span> F
+
+- Pattern 3:
+
+    <span style="background-color: rgb(219, 219, 219)">__</span>  C4#
+
+    <span style="background-color: purple">__</span> A
+
+
+
+- Pattern 4:
+
+    <span style="background-color: purple">__</span> A
+
+    <span style="background-color: green">__</span> C5
+
+- Pattern 5:
+
+
+    <span style="background-color: rgb(173, 252, 3)">__</span> F
+
+    <span style="background-color: red">__</span> G
+
+
+## Task 3
+
+Each block represents a tempo, "_" means dotted quarter notes following what stands before it.
+
+
+Phrase 1 :
+
+
+
+--------------------> time
+<div>
+<span style="background-color: red">__</span> G
+<span style="background-color: red">__</span> G
+<span >__</span> 
+<span >__</span> 
+|
+<span style="background-color: red">__</span> G
+<span style="background-color: purple">__</span> A
+<span >__</span> 
+<span >__</span> 
+|
+<span style="background-color: red">__</span> G
+<span style="background-color: rgb(3, 190, 252)">__</span> B
+<span >__</span> 
+<span >__</span> 
+|
+<span style="background-color: red">__</span> G
+<span >__</span> 
+<span >__</span> 
+<span >__</span> 
+
+</div>
+
+Phrase 2 :
+
+
+
+<div>
+<span style="background-color: rgb(252, 3, 211)">__</span> C4
+<span > __ </span> 
+<span > __ </span> 
+<span > __ </span> 
+|
+<span style="background-color: purple">__</span> A-bt
+<span > __ </span> 
+<span > __ </span> 
+<span > __ </span> 
+|
+<span style="background-color: purple">__</span> A-bt
+<span > __ </span> 
+<span > __ </span> 
+<span > __ </span> 
+|
+<span style="background-color: rgb(173, 252, 3)">__</span> F
+<span > _ </span> 
+<span > _ </span> 
+<span > _ </span> 
+|
+</div>
+<div>
+<span style="background-color: rgb(3, 190, 252)">__</span> B-bt
+<span > __ </span> 
+<span > __ </span> 
+<span > __ </span> 
+|
+<span > __ </span> 
+<span > __ </span> 
+<span > __ </span> 
+<span > __ </span> 
+|
+<span style="background-color: rgb(3, 190, 252)">__</span> B-bt
+|
+<span > __ </span> 
+<span > __ </span> 
+<span > __ </span> 
+<span > __ </span> 
+|
+
+</div>
