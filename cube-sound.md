@@ -122,6 +122,7 @@ c.	any other perspectives as a novel digital musical instrument
 
 4.	Any downsides/suggestions regarding the design of this new musical interface for music creativity?
 
+---
 # Music Sheet
 
 
@@ -145,7 +146,7 @@ For task 2 and 3, you will be asked to follow color patterns with text info to c
 
 ## Task 2
 
-Play 3 chords or music patterns:
+Play 5 chords or music patterns:
 
 --------------------> time
 
@@ -223,7 +224,7 @@ Phrase 1 :
 Phrase 2 :
 
 
-
+--------------------> time
 <div>
 <span style="background-color: rgb(252, 3, 211)">__</span> C4
 <span > __ </span> 
