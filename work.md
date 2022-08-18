@@ -3,12 +3,19 @@ layout: work
 title: Work
 slug: /work
 items:
+  - title: CubingSound Improvisation
+    link: https://youtu.be/WtmpdeHgLr4
+    image:
+      src: /assets/img/work/cbs-performance.png
+      alt: cubing-sound-performance
+    description: First time using CubingSound to improvise at the ANU SoM O-week showcase
+
   - title: "Cubing Sound : A NIME (New Interface for Musical Expression) for Head-mounted Augmented Reality"
     link: https://youtu.be/H6W1AIHlQIg
     image:
       src: /assets/img/work/cubing-sound.png
       alt: cubing-sound
-    description: Will be soon on NIME2022! 
+    description: An empirical studying exploring NIME in head-mounted AR.
   - title: Sonic Sculptural Staircase
     link: https://yichenwangs.github.io/portfolio/
     image:
@@ -21,6 +28,12 @@ items:
       src: /assets/img/work/cloud.png
       alt: sunset-inspo
     description: Finally - our Laptop Ensemble performance is up online (mine starts at 56:56)! "Sunset Inspo" is a creative live coding artwork that uses Extempore and P5.js to present a real-time audiovisual performance. The theme of the work came from my experiences of watching sunset at Canberra (a tiny but lovely city)!
+  - title: Sonic Sculpture
+    link: https://youtu.be/A0NG-T8y7gM
+    image:
+      src: /assets/img/work/sonic-sculpture.png
+      alt: sonic-sculpture
+    description: A research project I was involved in creating an artistic sonic installation using Microsoft HoloLens 1 - where and how my sonic research journey started!
 ---
 
 <br />
