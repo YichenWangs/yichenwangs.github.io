@@ -3,6 +3,11 @@ layout: work
 title: Work
 slug: /work
 items:
+  - title: (up-coming) TPR talk
+    image:
+        src: /assets/img/work/tpr-poster.jpg
+        alt: tpr
+    description: Wrapping up what I've been working on this year :-)
   - title: CubingSound Improvisation
     link: https://youtu.be/WtmpdeHgLr4
     image:
