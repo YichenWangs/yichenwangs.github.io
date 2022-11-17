@@ -2,8 +2,15 @@
 layout: work
 title: Work
 slug: /work
-items:
-  - title: (up-coming) TPR talk
+items:  
+  - title: Improvising using my sound-cubes at Electronique 
+    link: https://youtu.be/uR7LbpRMMVM
+    image:
+        src: /assets/img/work/smc-duo-min.png
+        alt: smac-duo
+    description: First SMAC lab show!
+  - title: TPR talk
+    link: https://yichenwangs.github.io/tpr-preso/
     image:
         src: /assets/img/work/tpr-poster.jpg
         alt: tpr
@@ -14,7 +21,6 @@ items:
       src: /assets/img/work/cbs-performance.png
       alt: cubing-sound-performance
     description: First time using CubingSound to improvise at the ANU SoM O-week showcase.
-
   - title: "Cubing Sound : A NIME (New Interface for Musical Expression) for Head-mounted Augmented Reality"
     link: https://youtu.be/H6W1AIHlQIg
     image:
