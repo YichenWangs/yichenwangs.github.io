@@ -3,6 +3,13 @@ layout: work
 title: Work
 slug: /work
 items:  
+  - title: The Connected Creativity Algorave gig 
+    link: https://youtu.be/zTFF5Vg7ctI?t=2717
+    image: 
+        src: /assets/img/profile-pic.jpg
+        alt: profile-pic
+    description:
+      at OzCHI2022
   - title: Improvising using my sound-cubes at Electronique 
     link: https://youtu.be/uR7LbpRMMVM
     image:
