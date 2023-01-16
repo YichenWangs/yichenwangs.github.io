@@ -4,7 +4,7 @@
 title: Yichen Wang | 汪逸宸
 description: >- # this means to ignore newlines until "baseurl:"
   The is Yichen Wang's personal website.
-baseurl: "/yichen" # the subpath of the site
+baseurl: "" # the subpath of the site
 url: "https://yichenwangs.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
@@ -14,8 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Work
-    # - name: Blog
-    #   slug: /
+    - name: Photo
     # - name: Post
 
 footer:
