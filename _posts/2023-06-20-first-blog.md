@@ -9,7 +9,7 @@ Finally, I've decided to start a [Fuji X Weekly](https://fujixweekly.com) challe
 However I did notice a gradual decrease in the number of photos I take in recent years, so does the appreciation of those beautiful moments through the lens.
 
 Now, in an attempt to return to my photography "prelife",
-my current plan is to pick a fuji weekly recipe and take as many shots as I can during the week. Then select the **3** best ones and put them [here](../photo.md).
+my current plan is to pick a fuji weekly recipe and take as many shots as I can during the week. Then select the **3** best ones and put them [here](../../../photo).
 
 Let's see how that goes ...
 
