@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="photo">
+          {% for item in page.items %}
+          <div class="photo-item">
+          <img
+              src="{{ item.image.src | absolute_url }}"
+              alt="{{ item.image.alt }}"
+              class="photo-bubble"
+          />
+          <div class="photo-text">
+            <strong>
+              {{item.title}}
+            </strong>
+            <br>
+            {{item.description}}
+          </div>
+          <div class="photo-date">
+            {{item.date}}
+          </div>
+          </div>  
+          {% endfor %}        
+
+
+        </div>
+          
+
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>

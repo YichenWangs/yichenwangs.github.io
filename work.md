@@ -54,8 +54,3 @@ items:
     description: A research project I was involved in creating an artistic sonic installation using Microsoft HoloLens 1 - where and how my sonic research journey started!
 ---
 
-<br />
-
-<!-- Here are abstracts of my selected works. You can [read more](https://yichenwangs.github.io/portfolio/) from my portfolio. -->
-
-<br />
