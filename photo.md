@@ -3,6 +3,30 @@ layout: photo
 title: Photo
 slug: /photo
 items:  
+  - title: Friends
+    image: 
+      src: /assets/img/photo/friends-london-circuit.jpeg
+      alt: wk26-friends
+    description:
+      FujiXWeekly Winter Slide
+    date:
+      Week 26, 2023
+  - title: Untitled
+    image: 
+      src: /assets/img/photo/civic-winter-guy.jpeg
+      alt: wk26-single-man
+    description:
+      FujiXWeekly Winter Slide
+    date:
+      Week 26, 2023
+  - title: Winter Braddon Afterwork
+    image: 
+      src: /assets/img/photo/braddon-winter.jpeg
+      alt: wk26-braddon
+    description:
+      FujiXWeekly Winter Slide
+    date:
+      Week 26, 2023
   - title: Saturday Campus (tree)
     image: 
       src: /assets/img/photo/wk23-tree-min.jpeg
