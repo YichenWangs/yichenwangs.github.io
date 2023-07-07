@@ -16,6 +16,9 @@ This work is directly inspired [my own experiences in ensemble improvisation](..
 
 Please sign up [here](https://forms.gle/FEyhopHTKMLgQ1TTA) or directly email me at [yichen.wang@anu.edu.au](mailto:yichen.wang@anu.edu.au) for more info.
 
+
+![minilab](../../../assets/img/post/minilab-ar.jpg)
+
 ![sample](../../../assets/img/post/siggraph-xr-isometricsen-web-img.jpg)
 
 
