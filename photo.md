@@ -3,6 +3,38 @@ layout: photo
 title: Photo
 slug: /photo
 items:  
+  - title: Afternoon
+    image: 
+      src: /assets/img/photo/lonnie-gorge.JPG
+      alt: wk27-launceston
+    description:
+      FujiXWeekly Improved Velvia
+    date:
+      Week 27, 2023
+  - title: Cataract Gorge Reserve
+    image: 
+      src: /assets/img/photo/lonnie-gorge-forest.JPG
+      alt: wk27-launceston
+    description:
+      FujiXWeekly Improved Velvia
+    date:
+      Week 27, 2023
+  - title: Crisp Morning
+    image: 
+      src: /assets/img/photo/lonnie-morning.JPG
+      alt: wk27-launceston
+    description:
+      FujiXWeekly Improved Velvia
+    date:
+      Week 27, 2023
+  - title: Launceston River Tamar
+    image: 
+      src: /assets/img/photo/lonnie-water.JPG
+      alt: wk27-launceston
+    description:
+      FujiXWeekly Improved Velvia
+    date:
+      Week 27, 2023
   - title: Friends
     image: 
       src: /assets/img/photo/friends-london-circuit.jpeg
@@ -10,7 +42,7 @@ items:
     description:
       FujiXWeekly Winter Slide
     date:
-      Week 26, 2023
+      Week 25, 2023
   - title: Untitled
     image: 
       src: /assets/img/photo/civic-winter-guy.jpeg
@@ -18,7 +50,7 @@ items:
     description:
       FujiXWeekly Winter Slide
     date:
-      Week 26, 2023
+      Week 25, 2023
   - title: Winter Braddon Afterwork
     image: 
       src: /assets/img/photo/braddon-winter.jpeg
@@ -26,7 +58,7 @@ items:
     description:
       FujiXWeekly Winter Slide
     date:
-      Week 26, 2023
+      Week 25, 2023
   - title: Saturday Campus (tree)
     image: 
       src: /assets/img/photo/wk23-tree-min.jpeg
