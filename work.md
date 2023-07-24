@@ -2,7 +2,15 @@
 layout: work
 title: Work
 slug: /work
-items:  
+items: 
+  - title: A workshop, poster & performance at NIME2023!
+    link: (https://www.nime2023.org/program/posters)
+    image: 
+        src: /assets/img/work/nime2023.jpeg
+        alt: nime2023
+    description:
+      Honored to have a few works presented at NIME2023, 
+      including the Mixed Realities as NIMEs workshop, a poster paper & a music performance!
   - title: The Connected Creativity Algorave gig 
     link: https://youtu.be/zTFF5Vg7ctI?t=2717
     image: 
