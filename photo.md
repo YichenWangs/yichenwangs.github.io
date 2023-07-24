@@ -5,7 +5,7 @@ slug: /photo
 items:  
   - title: Afternoon
     image: 
-      src: /assets/img/photo/lonnie-gorge.JPG
+      src: /assets/img/photo/lonnie-gorge.jpg
       alt: wk27-launceston
     description:
       FujiXWeekly Improved Velvia
@@ -13,7 +13,7 @@ items:
       Week 27, 2023
   - title: Cataract Gorge Reserve
     image: 
-      src: /assets/img/photo/lonnie-gorge-forest.JPG
+      src: /assets/img/photo/lonnie-gorge-forest.jpg
       alt: wk27-launceston
     description:
       FujiXWeekly Improved Velvia
