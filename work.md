@@ -4,7 +4,7 @@ title: Work
 slug: /work
 items: 
   - title: A workshop, poster & performance at NIME2023!
-    link: (https://www.nime2023.org/program/posters)
+    link: https://www.nime2023.org/program/posters
     image: 
         src: /assets/img/work/nime2023.jpeg
         alt: nime2023
@@ -36,7 +36,7 @@ items:
       src: /assets/img/work/cbs-performance.png
       alt: cubing-sound-performance
     description: First time using CubingSound to improvise at the ANU SoM O-week showcase.
-  - title: "Cubing Sound : A NIME (New Interface for Musical Expression) for Head-mounted Augmented Reality"
+  - title: "Cubing Sound : An Authentic Musical Interface designed for Head-mounted Augmented Reality" at NIME2022
     link: https://youtu.be/H6W1AIHlQIg
     image:
       src: /assets/img/work/cubing-sound.png
