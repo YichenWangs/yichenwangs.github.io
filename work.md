@@ -36,7 +36,7 @@ items:
       src: /assets/img/work/cbs-performance.png
       alt: cubing-sound-performance
     description: First time using CubingSound to improvise at the ANU SoM O-week showcase.
-  - title: "Cubing Sound : An Authentic Musical Interface designed for Head-mounted Augmented Reality" at NIME2022
+  - title: Cubing Sound exploring authentic musical interface designed for an Augmented Reality headset at NIME2022
     link: https://youtu.be/H6W1AIHlQIg
     image:
       src: /assets/img/work/cubing-sound.png
