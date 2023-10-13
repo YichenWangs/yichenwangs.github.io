@@ -5,8 +5,12 @@
 }
 
 .work-bubble {
-  float: left;
-  padding-right: 20px;
-  width: 50%;
-  height: auto;
+  float: right;
+  padding: 1em;
+  width: 200px;
 }
+
+.work-bubble {
+  float: left;
+}
+

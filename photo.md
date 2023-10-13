@@ -2,7 +2,39 @@
 layout: photo
 title: Photo
 slug: /photo
-items:  
+items:
+  - title: Illustration
+    image: 
+      src: /assets/img/photo/syd-power-house.jpeg
+      alt: syd
+  - title: Newborn
+    image: 
+      src: /assets/img/photo/anu-ducks.jpeg
+      alt: ducks
+  - title: Food truck
+    image: 
+      src: /assets/img/photo/london-shoreditch.jpg
+      alt: wattle
+  - title: Untitle
+    image: 
+      src: /assets/img/photo/london-morning.jpeg
+      alt: london-morning
+  - title: Radios
+    image: 
+      src: /assets/img/photo/tate.jpeg
+      alt: tate
+  - title: Edinburgh
+    image: 
+      src: /assets/img/photo/edinburgh.jpg
+      alt: wattle
+  - title: Scotland
+    image: 
+      src: /assets/img/photo/train.jpeg
+      alt: train
+  - title: Wattle Night
+    image: 
+      src: /assets/img/photo/wattle-night.jpeg
+      alt: wattle
   - title: Afternoon
     image: 
       src: /assets/img/photo/lonnie-gorge.jpg
