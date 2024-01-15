@@ -3,6 +3,18 @@ layout: photo
 title: Photo
 slug: /photo
 items:
+  - title: 夏宫
+    image: 
+      src: /assets/img/photo/beijing-02.jpeg
+      alt: summer palace
+    date:
+      Dec, 2023
+  - title: 白家疃
+    image: 
+      src: /assets/img/photo/beijing-01.jpeg
+      alt: beijing-mountain
+    date:
+      Dec, 2023
   - title: Illustration
     image: 
       src: /assets/img/photo/syd-power-house.jpeg
