@@ -10,6 +10,13 @@ items:
         alt: human-ai
     description:
       An ongoing working exploring an embodied AR musical agent in bridging sense-making during human-AI co-creation.
+  - title: Collaborative Musical Expression for Digital Musical Ensemble in Augmented Reality 
+    link: https://aimc2024.pubpub.org/pub/ll85912p/draft?access=86wzhfx6 
+    image: 
+        src: /assets/img/work/collab-ar.jpg
+        alt: human-ai
+    description:
+      A full-stack work including a Front-End AR Interface that visualises musicians’ body and instrument and a Back-End WebSocket-Based infrastructure to enable server-client MIDI communication between electronic musical systems for musicians for live performance.
   - title: "Mobility, Sound and Space: Expressive Musical Experience in Augmented Reality"
     link: https://www.nime.org/proc/nime2023_17/index.html
     image: 
