@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Work
+title: Works
 slug: /work
 items: 
   - title: "Sense-Making with Embodied Augmented Reality Intelligent Agent in Human-AI Co-creation"

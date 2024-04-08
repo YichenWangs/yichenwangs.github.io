@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Performance
+title: Performances
 slug: /performance
 items:
   - title: Unspoken. (2024)
