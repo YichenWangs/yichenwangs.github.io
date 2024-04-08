@@ -11,9 +11,10 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
-      slug: /
-    - name: Work
+    # - name: Home
+    #   slug: /
+    - name: Works
+    - name: Performances
     - name: Photo
     - name: Blog
 

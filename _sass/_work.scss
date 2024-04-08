@@ -1,16 +1,23 @@
 .work-item {
   clear: both;
   overflow: hidden;
-  padding-bottom: 3em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin: auto;
 }
-
-.work-bubble {
-  float: right;
-  padding: 1em;
-  width: 200px;
-}
-
 .work-bubble {
   float: left;
+  padding: 1em;
 }
-
+.work-img{
+  object-fit: cover;
+  object-position: center;
+  width: 270px;
+  height: 170px;
+}
+.work-text{
+  padding-top: 0.5em;
+  float: right;
+  width: 330px;
+  text-align: left;
+}

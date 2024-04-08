@@ -15,17 +15,19 @@
           <div class="work-item">
             <div class="work-bubble">
             <a href={{item.link}}>
-            <img
+            <img class="work-img"
               src="{{ item.image.src | absolute_url }}"
               alt="{{ item.image.alt }}"
             />
             </a>
-          </div>
-            <span class="work-text">
+          </div >
+          <div  class="work-text">
+            <span>
               <strong>{{ item.title }}</strong>
               <br>
               {{ item.description }}
             </span>
+          </div>
           </div>
           {% endfor %}
         </div>
