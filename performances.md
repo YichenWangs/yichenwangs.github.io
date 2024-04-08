@@ -4,21 +4,21 @@ title: Performances
 slug: /performance
 items:
   - title: Unspoken. (2024)
-    link: https://www.nime2023.org/program/posters
+    link: https://www.youtube.com/watch?v=H5AdOE8QnKk&feature=youtu.be
     image: 
         src: /assets/img/performance/upsoken.jpeg
         alt: unspoken
     description:
       A mixed reality duet performance that explores the aesthetic possibilities of AR technology as a medium for collaborative musical expression. Musicians with their tangible musical systems are communicated gestural and spatial musical intention through a collaborative augmented reality interface.
   - title: 破境 //beyond realms. (2023)
-    link: https://www.nime2023.org/program/posters
+    link: https://www.youtube.com/watch?v=5QUpw_7yZqU
     image: 
         src: /assets/img/performance/yichen-sandy-cubes-min.png
         alt: beyond-realms
     description:
       An improvised dialogue between an augmented reality instrument and a physical Volca synthesiser exploring the tensions and connections in mixed reality interactions through colour-coded communication, featured at ACMC 2023.
   - title: Music(re)ality (2023)
-    link: https://www.nime2023.org/program/posters
+    link: https://www.youtube.com/watch?v=gQ5jUTbto1M
     image: 
         src: /assets/img/performance/musicreality.png
         alt: musicreality
