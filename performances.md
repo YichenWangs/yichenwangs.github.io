@@ -9,7 +9,7 @@ items:
         src: /assets/img/performance/upsoken.jpeg
         alt: unspoken
     description:
-      A mixed reality duet performance that explores the aesthetic possibilities of AR technology as a medium for collaborative musical expression. Musicians with their tangible musical systems are communicated gestural and spatial musical intention through a collaborative augmented reality interface.
+      A mixed reality duet performance that explores the aesthetic possibilities of augmented reality technology as a medium for collaborative musical expression. Musicians with their tangible musical systems are communicated gestural and spatial musical intention through a collaborative AR interface.
   - title: 破境 //beyond realms. (2023)
     link: https://www.youtube.com/watch?v=5QUpw_7yZqU
     image: 
