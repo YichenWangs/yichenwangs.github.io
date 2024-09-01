@@ -16,14 +16,14 @@ items:
         src: /assets/img/work/collab-ar.jpg
         alt: human-ai
     description:
-      A full-stack work including a Front-End AR Interface that visualises musicians’ body and instrument and a Back-End WebSocket-Based infrastructure to enable server-client MIDI communication between electronic musical systems for musicians for live performance.
+      A full-stack project featuring a front-end AR interface that visualises musicians' bodies and instruments, combined with a back-end WebSocket-based infrastructure to enable server-client MIDI communication between electronic musical systems for live performances.
   - title: "Mobility, Sound and Space: Expressive Musical Experience in Augmented Reality"
     link: https://www.nime.org/proc/nime2023_17/index.html
     image: 
         src: /assets/img/work/mobility-space.jpg
         alt: nime2023-paper
     description:
-      A study with 20 musicians discussing performing experiences with the isometric-sen instrument. This work was featured at NIME 2023.
+      A study with 20 musicians discussing performing experiences with the cube mixed reality instrument. This work was featured at NIME 2023.
   - title: Cubing Sound/isometric-sen
     link: https://nime.pubpub.org/pub/w82of2do/release/1
     image:
