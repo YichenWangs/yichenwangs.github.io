@@ -9,7 +9,7 @@ items:
         src: /assets/img/work/off-the-self.png
         alt: human-ai
     description:
-      An ongoing working exploring an embodied AR musical agent in bridging sense-making during human-AI co-creation.
+      An ongoing project exploring an embodied AR musical agent's role in facilitating sense-making during human-AI co-creation.
   - title: Collaborative Musical Expression for Digital Musical Ensemble in Augmented Reality 
     link: https://aimc2024.pubpub.org/pub/ll85912p/draft?access=86wzhfx6 
     image: 
