@@ -15,8 +15,8 @@ header:
     #   slug: /
     - name: Works
     - name: Performances
-    - name: Photo
-    - name: Blog
+    - name: Photography
+    # - name: Blog
 
 footer:
   show_powered_by: true
@@ -35,8 +35,8 @@ footer:
       link: https://scholar.google.com/citations?hl=en&user=IaBYlMQAAAAJ
     # - name: LinkedIn
     #   link: http://linkedin.com/in/YourLinkedInUsername
-    # - name: GitHub
-    #   link: http://github.com/YourGitHubUsername
+    - name: GitHub
+      link: http://github.com/YichenWangs
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: RSS
