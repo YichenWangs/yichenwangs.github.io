@@ -16,6 +16,8 @@ header:
     - name: Works
     - name: Performances
     - name: Photography
+    - name: ADC Poster
+      slug: /adc%20poster/
     # - name: Blog
 
 footer:

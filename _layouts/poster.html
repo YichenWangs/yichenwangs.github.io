@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+    <div class="page-content">
+      <div class="portfolio-wrapper">
+        {{content}}
+          <div class="portfolio-container">
+              {% for item in page.items %}
+              <div class="portfolio-item">
+                <a href="{{ item.link | relative_url }}" class="portfolio-link">
+                  <img src="{{ item.image.src | relative_url }}" alt="{{ item.image.alt }}" class="portfolio-image">
+                  <div class="portfolio-info">
+                    <h3 class="portfolio-title">{{ item.title }}</h3>
+                    <p class="portfolio-description">{{ item.description }}</p>
+                  </div>
+                </a>
+              </div>
+              {% endfor %}
+          </div>
+      </div>
+  </div>
+
+    {% include footer.html %}
+    
+    {% include foot.html %}
+  </body>
+</html>
