@@ -4,7 +4,7 @@ title: arMIDI
 permalink: /adc-poster/collab-ar
 gallery:
     - image_path: ../../../assets/img/performance/unspoken-nime-min.jpg
-      caption: CUBE Performance at NIME Conference
+      caption: Unspoken
     - youtube_id: nwfC2Ch97O0?si=qoYGaxDczSdHXoyI
       caption: Unspoken at NIME Conference
 ---
