@@ -83,3 +83,24 @@
   .portfolio-link:hover .portfolio-title {
     text-decoration: underline;
   }
+
+  .content-headings h1 {
+    /* Custom styles for h1 in markdown content */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: bolder;
+    font-size:31px;
+  }
+
+  .markdown-content p {
+    /* Custom styles for h1 in markdown content */
+    font-family:monospace;
+    text-align: center;
+    font-size: large;
+    padding-left: 5em;
+    padding-right: 5em;
+  }
+  .markdown-content{
+    padding: 30px;  
+
+  }
