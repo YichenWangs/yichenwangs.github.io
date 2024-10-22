@@ -2,7 +2,7 @@
 layout: poster
 title: "ADC Poster"
 subtitle: "Exploring Entanglement in Spatial Musical Interface Design with Augmented Reality"
-permalink: /adc%20poster/
+permalink: /adc-poster/
 items:
   - title: "Off the Shelf"
     image: 
