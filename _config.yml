@@ -30,9 +30,9 @@ footer:
       value: yichen.wang@anu.edu.au
       link: mailto:yichen.wang@anu.edu.au
   follow:
-    - name: Instagram
-      link: https://www.instagram.com/yichenwangsss/
-      username: "@yichenwangsss"
+    # - name: Instagram
+    #   link: https://www.instagram.com/yichenwangsss/
+    #   username: "@yichenwangsss"
     - name: Google Scholar
       link: https://scholar.google.com/citations?hl=en&user=IaBYlMQAAAAJ
     - name: GitHub
