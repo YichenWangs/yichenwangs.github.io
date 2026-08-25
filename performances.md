@@ -3,6 +3,14 @@ layout: work
 title: Performances
 slug: /performance
 items:
+  - title: 回溯：Co-constructing a Dual Feedback Apparatus (2026)
+    link: https://www.youtube.com/live/7RdtMOFNOSM?si=IkUmHfq1HoyjeuJr&t=5517
+    image: 
+        src: /assets/img/hui-su-2026.jpg
+        alt: hui-su
+    description:
+      A duet performance between two intelligent musical instruments 溯(sù, to trace back; to go upstream) and Agentier (playing on agentic clavier), and their human performers, connected through feedback loops. 
+      The 溯 operates in the audio space through latent representation, while the Agentier functions in the control space. Contrasting feedback in the audio and control domains, the performance explores shared agency, resistance, and negotiation between humans and intelligent musical systems. Musical phenomena are co-produced through the entangled states of interaction, rather than through pre-existing system configuration or fixed mappings.
   - title: Unspoken. (2024)
     link: https://www.youtube.com/watch?v=H5AdOE8QnKk&feature=youtu.be
     image: 

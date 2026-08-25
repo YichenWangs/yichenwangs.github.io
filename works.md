@@ -3,13 +3,20 @@ layout: work
 title: Works
 slug: /work
 items: 
+  - title: "Su 溯: latent feedback instrument"
+    link: https://aimc2024.pubpub.org/pub/ll85912p/draft?access=86wzhfx6 
+    image: 
+        src: /assets/img/work/feedback-latent-system.jpg
+        alt: su
+    description:
+      A latent feedback instrument built on a pretrained vocal synthesis model in [RAVE](https://github.com/acids-ircam/rave).
   - title: "Sense-Making with Embodied Augmented Reality Intelligent Agent in Human-AI Co-creation"
     link: https://aimc2024.pubpub.org/pub/ll85912p/draft?access=86wzhfx6 
     image: 
-        src: /assets/img/work/off-the-self.png
+        src: /assets/img/work/off-the-self-aimc.png
         alt: human-ai
     description:
-      An ongoing project exploring an embodied AR musical agent's role in facilitating sense-making during human-AI co-creation.
+      A project exploring an embodied AR musical agent's role in facilitating sense-making during human-AI co-creation.
   - title: Collaborative Musical Expression for Digital Musical Ensemble in Augmented Reality 
     link: https://aimc2024.pubpub.org/pub/ll85912p/draft?access=86wzhfx6 
     image: 

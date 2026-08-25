@@ -15,9 +15,9 @@ header:
     #   slug: /
     - name: Works
     - name: Performances
-    - name: Photography
-    - name: ADC Poster
-      slug: /adc-poster/
+    # - name: Photography
+    # - name: ADC Poster
+    #   slug: /adc-poster/
     # - name: Blog
 
 footer:
@@ -26,9 +26,9 @@ footer:
     - name: Email
       value: hallo@yichenwang.io
       link: mailto:hallo@yichenwang.io
-    - name: Email
-      value: yichen.wang@anu.edu.au
-      link: mailto:yichen.wang@anu.edu.au
+    # - name: Email
+    #   value: yichen.wang@anu.edu.au
+    #   link: mailto:yichen.wang@anu.edu.au
   follow:
     # - name: Instagram
     #   link: https://www.instagram.com/yichenwangsss/
