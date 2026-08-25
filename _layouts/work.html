@@ -6,7 +6,7 @@
     {% include header.html %}
 
     <div class="page-content">
-      <div class="wrapper">
+      <div class="wrapper wrapper-wide">
         <div class="work">
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
@@ -21,12 +21,11 @@
             />
             </a>
           </div >
-          <div  class="work-text">
-            <span>
-              <strong>{{ item.title }}</strong>
-              <br>
-              {{ item.description }}
-            </span>
+          <div class="work-text">
+            <strong class="work-title">{{ item.title }}</strong>
+            <div class="work-desc">
+              {{ item.description | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
           </div>
           </div>
           {% endfor %}
