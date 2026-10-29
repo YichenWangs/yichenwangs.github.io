@@ -18,6 +18,8 @@
 }
 
 .site-title {
+  font-family: $display-font-family;
+  font-style: italic;
   font-size: 26px;
   line-height: 56px;
   letter-spacing: -1px;
@@ -162,9 +164,8 @@
 figcaption {
   // background-color: black;
   // color: white;
-  // font-style: "Courier New";
-  font-family: 'Courier New', Courier, monospace;
+  font-family: $mono-font-family;
   padding: 2px;
   text-align: right;
-  font-size: xx-small;
+  font-size: $small-font-size;
 }

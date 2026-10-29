@@ -3,27 +3,27 @@ layout: work
 title: Works
 slug: /work
 items: 
-  - title: "Su 溯: latent feedback instrument"
-    link: https://aimc2024.pubpub.org/pub/ll85912p/draft?access=86wzhfx6 
+  - title: "溯（Sù): AI-assisted Musical Interface"
+    link: /su
     image: 
         src: /assets/img/work/feedback-latent-system.jpg
         alt: su
     description:
-      A latent feedback instrument built on a pretrained vocal synthesis model in [RAVE](https://github.com/acids-ircam/rave).
-  - title: "Sense-Making with Embodied Augmented Reality Intelligent Agent in Human-AI Co-creation"
-    link: https://aimc2024.pubpub.org/pub/ll85912p/draft?access=86wzhfx6 
+      Designed and developed direct creative controls for a real-time generative audio system, translating a complex latent synthesis model into an interface for audio spatialisation with responsive feedback.
+  - title: "off-the-shelf: Collaborative Augmented Reality Interface"
+    link: /adc-poster/embodied-ai-ar
     image: 
         src: /assets/img/work/off-the-self-aimc.png
         alt: human-ai
     description:
-      A project exploring an embodied AR musical agent's role in facilitating sense-making during human-AI co-creation.
-  - title: Collaborative Musical Expression for Digital Musical Ensemble in Augmented Reality 
-    link: https://aimc2024.pubpub.org/pub/ll85912p/draft?access=86wzhfx6 
+      Adapted arMIDI to explore human–AI musical collaboration through performance-based design and a study with 16 users, examining creative collaboration and social dynamics in solo and duo groups with an AI musical agent.
+  - title: "arMIDI: Augmented Reality Musical Collaboration Interface"
+    link: /adc-poster/collab-ar
     image: 
         src: /assets/img/work/collab-ar.jpg
         alt: human-ai
     description:
-      A full-stack project featuring a front-end AR interface that visualises musicians' bodies and instruments, combined with a back-end WebSocket-based infrastructure to enable server-client MIDI communication between electronic musical systems for live performances.
+      Designed and built an AR interface visualising musicians' movements and instrument activity, with a Node.js and WebSocket backend. Evaluation with four musician pairs highlighted the value of combined visual feedback and the demands it placed on attention.
   - title: "Mobility, Sound and Space: Expressive Musical Experience in Augmented Reality"
     link: https://www.nime.org/proc/nime2023_17/index.html
     image: 
@@ -31,12 +31,12 @@ items:
         alt: nime2023-paper
     description:
       A study with 20 musicians discussing performing experiences with the cube mixed reality instrument. This work was featured at NIME 2023.
-  - title: Cubing Sound/isometric-sen
-    link: https://nime.pubpub.org/pub/w82of2do/release/1
+  - title: "cube: Gesture-based Augmented Reality Musical Interface"
+    link: /adc-poster/cube
     image:
-      src: /assets/img/work/cubing-sound.png
+      src: /assets/img/work/cubing-sound-inapp.jpg
       alt: cubing-sound
-    description: An auto-biographical design journey exploring an authentic musical interface for an augmented reality headset, consisting of a synthesiser interface, an embodied sound cube, and a spiral cubic instrument. This work was featured at NIME 2022, IEEEVR 2022.
+    description: Designed and prototyped three AR interaction concepts for shaping sound through freehand movement. Iterative self-testing and evaluation with 20 users explored learnability and creative exploration, revealing opportunities for greater sound customisation. Built with Unity, C#, and real-time synthesis.
   - title: Sonic Sculptural Staircase
     link: https://nime.pubpub.org/pub/efzarmql/release/1
     image:

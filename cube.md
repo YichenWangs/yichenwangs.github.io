@@ -31,4 +31,4 @@ We have performed with the CUBE instrument in various setups, and you can watch 
 
 <br>
 <br>
-[Back to Projects](../../../adc%20poster)
+[Back to all projects]({{ '/works' | relative_url }})

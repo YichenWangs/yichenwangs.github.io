@@ -29,4 +29,4 @@ On the back end, musical interaction (MIDI) data from each performer's keyboard 
 
 <br>
 <br>
-[Back to Projects](../../../adc%20poster)
+[Back to all projects]({{ '/works' | relative_url }})

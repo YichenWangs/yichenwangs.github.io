@@ -4,7 +4,9 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.4.1"
+# Keep the existing Sass compiler for the theme's current SCSS syntax.
+gem "jekyll-sass-converter", "~> 2.2"
 
 # Plugins
 group :jekyll_plugins do

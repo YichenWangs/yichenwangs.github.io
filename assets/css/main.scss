@@ -7,9 +7,10 @@
 // Our variables
 $base-url: "{{ site.baseurl }}";
 
-// $base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
-$base-font-family: 'Courier New', Courier, monospace;
-$base-font-size: 14px;
+$mono-font-family: Menlo, Consolas, 'Liberation Mono', monospace;
+$base-font-family: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
+$display-font-family: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+$base-font-size: 16px;
 // $base-font-style: bold;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
@@ -18,7 +19,8 @@ $spacing-unit: 10px;
 
 $text-color: #111;
 $background-color: #fdfdfd;
-$brand-color: #2a7ae2;
+$brand-color: #7136a3;
+$highlight-color: #eee3f7;
 
 $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);

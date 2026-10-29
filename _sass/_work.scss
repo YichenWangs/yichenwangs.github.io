@@ -1,10 +1,6 @@
-// Wider wrapper for work/performance pages (overrides .wrapper's 700px cap)
+// Extra room for side-by-side project images and descriptions.
 .wrapper-wide {
-  max-width: 880px;
-
-  @include media-query($on-laptop) {
-    max-width: 880px;
-  }
+  max-width: 1040px;
 }
 
 .work-item {

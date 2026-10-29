@@ -3,7 +3,7 @@
 
 title: Yichen Wang | 汪逸宸
 description: >- # this means to ignore newlines until "baseurl:"
-  The is Yichen Wang's personal website.
+  Yichen Wang — Interaction Design & Prototyping | Audio & AI Creative Tools. Explore spatial musical instruments, collaborative AR interfaces, and human-AI music-making.
 baseurl: "" # the subpath of the site
 url: "https://www.yichenwang.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -37,6 +37,8 @@ footer:
       link: https://scholar.google.com/citations?hl=en&user=IaBYlMQAAAAJ
     - name: GitHub
       link: http://github.com/YichenWangs
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/yichen-wang-142005301
 
 # Build settings
 markdown: kramdown

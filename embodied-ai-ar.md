@@ -24,8 +24,8 @@ These components communicate with each other via a network infrastructure to cre
 
 ## [>] More
 - You can read our practice-based [research paper](https://aimc2024.pubpub.org/pub/ll85912p/release/1) from AIMC'24.
-- We are currently conducting a study with 16 musicians that explores social dynamics and AI interaction, derived from the[arMIDI](./collab-ar.md) project.
+- A study with 16 users examined creative collaboration and social dynamics in solo and duo groups with an AI musical agent, using an adapted [arMIDI]({{ '/adc-poster/collab-ar' | relative_url }}) interface.
 
 <br>
 <br>
-[Back to Projects](../../../adc%20poster)
+[Back to all projects]({{ '/works' | relative_url }})
