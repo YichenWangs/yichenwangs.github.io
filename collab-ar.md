@@ -1,7 +1,7 @@
 ---
 layout: post
 title: arMIDI
-permalink: /adc-poster/collab-ar
+permalink: /collab-ar
 gallery:
     - image_path: ../../../assets/img/performance/unspoken-nime-min.jpg
       caption: Unspoken
@@ -9,24 +9,51 @@ gallery:
       caption: Unspoken at NIME Conference
 ---
 
-is a mixed reality interface that explores how augmented reality (AR) can enhance musician's awareness and mutual engagement in collaborative electronic music-making. The system presents a head-mounted AR visualisation of a generic electronic music keyboard, inspired by [Artural MiniLab 3](https://www.arturia.com/products/hybrid-synths/minilab-3/overview). The interfaces visualises each musician's hand positions, eye gaze and MIDI interaction on the keyboard in real-time through a WebSocket network infrastructure.
+arMIDI is a collaborative augmented reality interface that visualises musicians’ hand positions, eye gaze, and instrument activity. It gives electronic musicians a shared view of their interaction to support awareness and coordination while playing together.
 
-The project addresses a [wicked issue](https://nime.org/proc/nime22_35/index.html) in digital musical instruments: the challenges of effective communication and engagement due to limited visibility and reduced gestural or non-verbal interaction. These constraints can hinder musicians' situational awareness, making cohesive performances more difficult to achieve.
+**Keywords:** Interaction design, spatial visualisation, and functional prototyping.
 
-## [-] Design and Development
+## [-] The design challenge
 
-The interface was developed in `Unity` in `C#` with `Microsoft MRTK` for HoloLens 2, and the 3D model was created in Blender.
-On the back end, musical interaction (MIDI) data from each performer's keyboard and computer was captured by a [`Node.js`](https://github.com/nodejs/node) application and transmitted to the other performer’s headset via a server using [`WebSocket`](https://github.com/websockets/ws) messages. The virtual keyboard appears next to each musicians’ physical electronic instrument [e.g., MiniLab 3], and can be anchored in space using a QR code tag.
+Electronic instruments often have small controls that are obscured during performance. A musician’s movements may also reveal little about the resulting sound, making it difficult for collaborators to follow changes or anticipate one another’s actions. I explored how AR could make this information visible while musicians continued playing their existing instruments.
+
+<figure>
+  <img src="{{ '/assets/img/work/collab-ar-system.png' | relative_url }}" alt="Comparison of arMIDI’s bodily and instrument information: hand and gaze markers on the left, and highlighted notes and control values on the right, shown above the corresponding physical keyboard interactions." style="display: block; width: 100%; height: auto;" loading="lazy">
+  <figcaption>Two visual design of feedback: hand and gaze positions (left), and notes and control changes (right). The upper panels show simulated views for the collaborator.</figcaption>
+</figure>
+
+## [-] Designing the interface
+
+Each performer sees a virtual representation of their collaborator’s keyboard through a HoloLens 2 headset. The design combines two layers of information: bodily cues that communicate movement and attention, and instrument data that shows notes and control changes.
+
+### Visual cues for movement and attention
+
+Yellow spheres labelled “L” and “R” represent the collaborator’s palm positions. During iterative in-lab development, these offered more stable tracking and less visual clutter than fully rendered hands, which were prone to jitter.
+
+A blue sphere shows gaze position. When the collaborator looks towards the virtual instrument, the marker freezes and enlarges to signal their attention. This approach communicates gaze while limiting distracting movement in the performer’s view.
+
+### Making instrument interaction visible
+
+The keyboard representation highlights active notes and controls in yellow. Animated knobs and faders reflect changes, with pink annotations displaying their current values. Bright colours were chosen for visibility through the headset under office lighting.
 
 
-## [>] More
+## [∞] Building the prototype
 
-- A user study with 8 musicians was conducted to explore their experiences regarding awareness and engagement in collaborative music-making. If you would like to know more, please feel free to email me for additional information!
-- Watch _Unspoken_, an alternative artistic configuration of the system, performed at NIME'24 in the video link at the top.
-- You can also watch the system [demo](https://youtu.be/X6kQouxTiWM).
+I built the interface in `Unity` and `C#` with `Microsoft MRTK`, with 3D modelling in `Blender`. A QR code anchors the virtual keyboard beside the physical instrument. A `Node.js` and `WebSocket` backend exchanges MIDI data between performers’ computers and headsets in real time.
 
+## [>] Evaluation and design insights
 
+A study with **eight musicians in four pairs** compared bodily cues, instrument activity, combined feedback, and no visualisation through improvisation, questionnaires, and interviews.
 
-<br>
-<br>
+The combined feedback was preferred overall and supported greater self-reported awareness than bodily cues alone or no visualisation. Instrument feedback was considered easiest to understand and respond to, while hand and gaze cues helped some musicians anticipate actions and coordinate roles.
+
+The study also highlighted an attention trade-off: additional information could distract from listening or be difficult to translate into a musical response. This points towards more selective feedback that prioritises meaningful changes and limits unnecessary detail.
+
+## [>] Paper and performances
+
+- [Seeing the Sound: Supporting Musical Collaboration with Augmented Reality](https://doi.org/10.1145/3698061.3726905), Creativity & Cognition 2025 — design and user study.
+- [System demo](https://youtu.be/X6kQouxTiWM).
+- Watch *Unspoken*, an artistic configuration performed at NIME 2024, in the video above.
+- The interface also informed [off-the-shelf]({{ '/embodied-ai-ar' | relative_url }}), exploring visual feedback in human–AI musical collaboration.
+
 [Back to all projects]({{ '/works' | relative_url }})

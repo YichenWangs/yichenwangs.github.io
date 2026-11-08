@@ -9,10 +9,10 @@ I'm Yichen (逸宸), an interaction designer and HCI researcher with a PhD in Co
 
 ## [+] Selected projects
 
-- **[Sù 溯]({{ '/su' | relative_url }})** — An AI-assisted musical interface translating a complex latent synthesis model into direct creative controls for real-time generative audio and spatialisation.
-- **[arMIDI]({{ '/adc-poster/collab-ar' | relative_url }})** — An AR interface for collaborative performance. Evaluation with four musician pairs explored how visual feedback supports shared awareness and competes for attention.
-- **[cube]({{ '/adc-poster/cube' | relative_url }})** — Three gesture-based AR interaction concepts, developed through iterative self-testing and evaluated with 20 users to explore learnability, creative exploration, and sound customisation.
-- **[off-the-shelf]({{ '/adc-poster/embodied-ai-ar' | relative_url }})** — An AR interface for human-AI musical collaboration, explored through performances and a study with 16 users in solo and duo groups.
+- **[Sù 溯]({{ '/su' | relative_url }})** — A real-time generative AI musical interface with direct latent-domain controls for creative sound exploration.
+- **[arMIDI]({{ '/collab-ar' | relative_url }})** — A collaborative augmented reality (AR) interface with shared visualisations of musicians’ gestures and instrument activity to support mutual awareness during electronic music performance.
+- **[cube]({{ '/cube' | relative_url }})** — An AR musical instrument with freehand gestural interaction and spatially arranged tonal cubes for expressive sound creation through movement.
+- **[off-the-shelf]({{ '/embodied-ai-ar' | relative_url }})** — A human–AI musical collaboration system with AR visualisations of an AI agent’s musical activity to support awareness and engagement during shared performance.
 
 Explore [all projects]({{ '/works' | relative_url }}) and [performances]({{ '/performances' | relative_url }}), or [get in touch](mailto:hallo@yichenwang.io).
 
